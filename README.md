@@ -1,4 +1,4 @@
-# Project 6: Multi-Tier Web Application
+# Multi-Tier Web Application
 
 A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js).
 This project features a React frontend, Node.js backend, and MongoDB database, containerized with Docker.
